@@ -1,7 +1,7 @@
 package entidades;
 import entidades.Situacao;
 
-public class Usado extends Imovel {
+public final class Usado extends Imovel {
 
 	private Situacao sit;
 
